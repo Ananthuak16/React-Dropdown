@@ -9,13 +9,13 @@ To use this dropdown component in your project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Ananthuak16/React-Dropdown.git)>
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd <project-directory>
+   cd <react-dropdown>
    ```
 
 3. Install dependencies:
