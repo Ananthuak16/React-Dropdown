@@ -74,4 +74,4 @@ The site Is hoste [here](<https://6633b7490b026a0b8840a7d9--silver-sopapillas-45
 
 ### Author
 
-This dropdown component was created by [Your Name]. If you have any questions or feedback, feel free to contact me at [Mail](<ananthuak97@gmail.com>)
+This dropdown component was created by [Ananthu Krishnan M.R]. If you have any questions or feedback, feel free to contact me at ananthuak97@gmail.com.
