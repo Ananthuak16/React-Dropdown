@@ -66,7 +66,7 @@ The styling of the dropdown component can be customized using CSS. The provided 
 
 ### Video Explanation
 
-A video explaining the approach to solving the problem and demonstrating the final product has been recorded. You can watch the video [here](<video-link>).
+A video explaining the approach to solving the problem and demonstrating the final product has been recorded. You can watch the video [here](<https://drive.google.com/file/d/1W-1FLimNk4BMxZSMXBmg8fY_QC_rVQ4E/view?usp=drive_link>).
 
 ### Hosted
 
